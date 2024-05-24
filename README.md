@@ -20,7 +20,7 @@ Welcome to the **Query-Fusion**! This extension enhances your browsing experienc
 ## 📦 Installation
 
 1. **Download the Zip File**:
-   - [Download the latest release](https://github.com/manan-dude/Query-Fusion/archive/refs/heads/main.zip)
+   - [Download the latest release](https://github.com/manan-dude/QueryFusion/archive/refs/heads/main.zip)
 
 2. **Load the Extension in Chrome**:
    - Open Chrome and navigate to `chrome://extensions/`
@@ -60,7 +60,7 @@ Welcome to the **Query-Fusion**! This extension enhances your browsing experienc
 
 ## 🌟 Contributing
 
-We welcome contributions to improve this extension! Feel free to submit pull requests and issues on our [GitHub repository](https://github.com/manan-dude/Query-Fusion.git).
+We welcome contributions to improve this extension! Feel free to submit pull requests and issues on our [GitHub repository](https://github.com/manan-dude/QueryFusion.git).
 
 ---
 
