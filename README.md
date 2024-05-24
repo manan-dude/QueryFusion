@@ -1,6 +1,6 @@
 # 🔍 Query-Fusion
 
-![icon](https://github.com/manan-dude/Query-Fusion/assets/76246911/ec9e22dd-3f60-4e94-8f25-e538f4288268)
+![icon](![icon](https://github.com/manan-dude/QueryFusion/assets/76246911/3f8d78cd-930a-40b8-8e3e-4437773f1040))
 
 Welcome to the **Query-Fusion**! This extension enhances your browsing experience by allowing you to quickly fetch and display search results from both Google and YouTube based on selected text. Easily toggle between Google and YouTube results within the extension popup for a seamless search experience.
 
@@ -52,7 +52,7 @@ Welcome to the **Query-Fusion**! This extension enhances your browsing experienc
 
 | Google Results                                  |                                                         YouTube Results                                  |
 |-------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-|![image](https://github.com/manan-dude/Query-Fusion/assets/76246911/420e4f06-dddc-4708-a6ee-e56e48aee72a)|![image](https://github.com/manan-dude/Query-Fusion/assets/76246911/60a77f84-66d8-4569-8623-aa2535a39b43)
+|![image](https://github.com/manan-dude/QueryFusion/assets/76246911/660c3b6a-b595-4c29-8740-fd9d65e748df))|![image](https://github.com/manan-dude/Query-Fusion/assets/76246911/60a77f84-66d8-4569-8623-aa2535a39b43)
 
 
 ---
