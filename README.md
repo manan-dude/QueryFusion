@@ -52,7 +52,7 @@ Welcome to the **Query-Fusion**! This extension enhances your browsing experienc
 
 | Google Results                                  |                                                         YouTube Results                                  |
 |-------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-|![image](https://github.com/manan-dude/QueryFusion/assets/76246911/660c3b6a-b595-4c29-8740-fd9d65e748df))|![image](https://github.com/manan-dude/Query-Fusion/assets/76246911/60a77f84-66d8-4569-8623-aa2535a39b43)
+|![image](https://github.com/manan-dude/QueryFusion/assets/76246911/660c3b6a-b595-4c29-8740-fd9d65e748df))|![image](https://github.com/manan-dude/QueryFusion/assets/76246911/2617a5b0-91f5-46a6-b0ef-16384fba93bb)|
 
 
 ---
