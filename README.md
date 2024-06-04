@@ -3,7 +3,7 @@
 ![icon](https://github.com/manan-dude/QueryFusion/assets/76246911/3478abdc-dbc3-48e5-9e58-8a4f5b99a818)
 
 
-Welcome to the **Query-Fusion**! This extension enhances your browsing experience by allowing you to quickly fetch and display search results from both Google and YouTube and AI (Ollama - llama3) based on selected text. Easily toggle between Google and YouTube results within the extension popup for a seamless search experience.
+Welcome to the **Query-Fusion**! This extension enhances your browsing experience by allowing you to quickly fetch and display search results from both Google and YouTube and AI (Ollama - llama3) based on selected text. Easily toggle between Google and YouTube and Ollama results within the extension popup for a seamless search experience.
 
 ---
 
@@ -13,7 +13,9 @@ Welcome to the **Query-Fusion**! This extension enhances your browsing experienc
 
 🖼 **User-Friendly Interface**: Parses and presents results directly in the extension popup.
 
-🔄 **Toggle Functionality**: Easily switch between Google and YouTube search results.
+🔄 **Toggle Functionality**: Easily switch between Google and YouTube and Ollama search results.
+
+
 
 ---
 
@@ -21,6 +23,7 @@ Welcome to the **Query-Fusion**! This extension enhances your browsing experienc
 
 1. **Download the Zip File**:
    - [Download the latest release](https://github.com/manan-dude/QueryFusion/archive/refs/heads/main.zip)
+   - In cmd ``` python llama.py ```
 
 2. **Load the Extension in Chrome**:
    - Open Chrome and navigate to `chrome://extensions/`
